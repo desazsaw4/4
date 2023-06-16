@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>PHP Чтение файла .txt</h1>
+
+<?php
+echo readfile("webdictionary.txt");
+?>
+
+</body>
+</html>
